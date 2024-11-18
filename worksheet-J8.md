@@ -1,4 +1,3 @@
-
 ## 1. What is the difference between a functional and non-functional requirement?
 
 ## 2. Give two example functional requirements for Instagram.com.
